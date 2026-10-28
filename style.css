@@ -1,0 +1,86 @@
+```css
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+
+header {
+    background-color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    color: #c90019;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+}
+
+
+.main {
+    background-color: #c90019;
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.main h2 {
+    font-size: 35px;
+}
+
+button {
+    background-color: white;
+    color: #c90019;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+
+.booking {
+    background-color: white;
+    margin: 20px;
+    padding: 25px;
+    text-align: center;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+}
+
+
+.destinations {
+    text-align: center;
+    padding: 20px;
+}
+
+.places {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.place {
+    background-color: white;
+    padding: 25px;
+    width: 200px;
+    border-radius: 8px;
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+```
